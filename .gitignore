@@ -1,0 +1,13 @@
+# Crap temp files
+.DS_Store
+._*
+Thumbs.db
+.Trashes
+.DS_Store?
+.Spotlight*
+*.log
+*.idea
+.idea
+*.csv
+php.core
+.nfs*
